@@ -1,4 +1,4 @@
-# 📊 Solana Whale Order Book Visualizer & Tracker
+# Solana Whale Order Book Visualizer & Tracker
 
 ## 🚀 What It Does
 
@@ -78,7 +78,7 @@ This script can help you identify moments like:
 ## 🧪 Run It
 
 ```bash
-python whale_limit_overlay.py
+orderbook.py
 ```
 
 ---
