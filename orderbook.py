@@ -7,7 +7,7 @@ import os
 
 load_dotenv()  # Load variables from .env into environment
 
-HELIUS_KEY = os.getenv("HELIUS_KEY ")
+HELIUS_KEY = os.getenv("HELIUS_KEY")
 BIRDEYE_KEY = os.getenv("BIRDEYE_KEY")
 
 # Only focusing on USDC, WSOL, USDT swaps
